@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 330" font-family="Arial, sans-serif" font-size="13">
+<rect width="900" height="330" fill="#ffffff"/>
+<text x="60" y="26" font-size="16" font-weight="bold" fill="#222">Three-level action hierarchy (one L3, 23 s at 30 fps)</text>
+<text x="8" y="78" fill="#444">L3</text><rect x="60" y="60" width="800" height="30" rx="4" fill="#c9d4ff" stroke="#5a6fd6"/>
+<text x="68" y="80" fill="#222">Grasp and pull apart the ziplock bag with both arms after the first grasp slips</text>
+<text x="8" y="138" fill="#444">L2</text>
+<rect x="60.0" y="120" width="505.2" height="30" rx="4" fill="#bfe9f2" stroke="#2e9db8"/>
+<text x="66.0" y="140" font-size="12" fill="#222">Grasp and reposition the bag</text>
+<rect x="567.2" y="120" width="170.9" height="30" rx="4" fill="#bfe9f2" stroke="#2e9db8"/>
+<text x="573.2" y="140" font-size="12" fill="#222">Pick up the bag</text>
+<rect x="740.1" y="120" width="117.9" height="30" rx="4" fill="#bfe9f2" stroke="#2e9db8"/>
+<text x="746.1" y="140" font-size="12" fill="#222">Pull open the bag</text>
+<text x="8" y="198" fill="#444">L1</text>
+<rect x="60.0" y="180" width="87.9" height="30" rx="3" fill="#e3c9f5" stroke="#8a4fb8"/>
+<text x="101.0" y="200" font-size="12" fill="#222">1</text>
+<rect x="149.9" y="180" width="74.1" height="30" rx="3" fill="#e3c9f5" stroke="#8a4fb8"/>
+<text x="184.0" y="200" font-size="12" fill="#222">2</text>
+<rect x="226.0" y="180" width="90.2" height="30" rx="3" fill="#e3c9f5" stroke="#8a4fb8"/>
+<text x="268.1" y="200" font-size="12" fill="#222">3</text>
+<rect x="318.2" y="180" width="78.7" height="30" rx="3" fill="#e3c9f5" stroke="#8a4fb8"/>
+<text x="354.6" y="200" font-size="12" fill="#222">4</text>
+<rect x="398.9" y="180" width="72.9" height="30" rx="3" fill="#e3c9f5" stroke="#8a4fb8"/>
+<text x="432.4" y="200" font-size="12" fill="#222">5</text>
+<rect x="473.8" y="180" width="61.4" height="30" rx="3" fill="#e3c9f5" stroke="#8a4fb8"/>
+<text x="501.5" y="200" font-size="12" fill="#222">6</text>
+<rect x="537.2" y="180" width="28.0" height="30" rx="3" fill="#e3c9f5" stroke="#8a4fb8"/>
+<text x="548.2" y="200" font-size="12" fill="#222">7</text>
+<rect x="567.2" y="180" width="47.6" height="30" rx="3" fill="#e3c9f5" stroke="#8a4fb8"/>
+<text x="588.0" y="200" font-size="12" fill="#222">8</text>
+<rect x="616.8" y="180" width="29.1" height="30" rx="3" fill="#e3c9f5" stroke="#8a4fb8"/>
+<text x="628.3" y="200" font-size="12" fill="#222">9</text>
+<rect x="647.9" y="180" width="36.0" height="30" rx="3" fill="#e3c9f5" stroke="#8a4fb8"/>
+<text x="662.9" y="200" font-size="12" fill="#222">10</text>
+<rect x="685.9" y="180" width="52.2" height="30" rx="3" fill="#e3c9f5" stroke="#8a4fb8"/>
+<text x="709.0" y="200" font-size="12" fill="#222">11</text>
+<rect x="740.1" y="180" width="30.3" height="30" rx="3" fill="#e3c9f5" stroke="#8a4fb8"/>
+<text x="752.3" y="200" font-size="12" fill="#222">12</text>
+<rect x="772.4" y="180" width="85.6" height="30" rx="3" fill="#e3c9f5" stroke="#8a4fb8"/>
+<text x="812.2" y="200" font-size="12" fill="#222">13</text>
+<text x="60" y="250" fill="#444">Every L1 sits inside an L2 and every L2 inside the L3, with no gaps.</text>
+<text x="60" y="272" fill="#444">Limits: L1 0.5-3 s · L2 3-20 s · L3 20-120 s.</text>
+<text x="60" y="294" fill="#444">Numbers 1-13 are the L1 steps listed in the README table.</text>
+</svg>
